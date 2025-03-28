@@ -13,3 +13,4 @@ export const getName = () => {
 export const congratulate = (name) => {
   console.log(`Congratulations, ${name}!`);
 };
+
