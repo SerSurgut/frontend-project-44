@@ -2,4 +2,4 @@
 
 import playGCDGame from '../src/games/gcd.js';
 
-playGCDGame(); 
+playGCDGame();
